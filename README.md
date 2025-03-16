@@ -5,9 +5,9 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=JagadeshwaranK&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on E-Commerce
+- 🔭 I’m currently working on E-Commerce.
 - 🌱 I’m learning React to transition from a Pega Developer to a Full-Stack Developer.
-- 👯 I’m looking to collaborate on Development Based Projects
+- 👯 I’m looking to collaborate on Development Based Projects.
 - 💬 Ask me about anything you want.
 - 📫 How to reach me: jagadesh.k3008@gmail.com
 - 😄 Pronouns:  𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜

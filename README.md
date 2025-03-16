@@ -1,7 +1,6 @@
 <h2 align="center"> Hi there 👋</h2>
 
-<h3 align="left">GitHub Trophies</h3>
-
+# GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=JagadeshwaranK&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=JagadeshwaranK&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -13,13 +12,13 @@
 - 📫 How to reach me: jagadesh.k3008@gmail.com
 - 😄 Pronouns:  𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜
 
-<h3 align="left">Connect with me:</h3>
+# Connect with me:
 <a href="https://www.linkedin.com/in/jagadeshwaran-k-5b504321a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadeshwaran-k" height="30" width="40" /></a>
 <a href="https://www.instagram.com/jagadesh_3014/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jagadesh_k3014" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/Jagadeshwaran_K/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jagadeshwaran-k" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/Educational_Ride_783/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/reddit.svg" alt="jagadeshwaran-k" height="30" width="40" /></a>
 
-<h3 align="left">Languages and Tools:</h3>
+# Languages and Tools:
 <p align="left">
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -102,7 +101,7 @@
 </p>
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=JagadeshwaranK&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=JagadeshwaranK&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JagadeshwaranK&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)

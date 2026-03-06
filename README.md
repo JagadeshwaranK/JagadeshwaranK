@@ -1,9 +1,17 @@
 <h2 align="center"> Hi there 👋</h2>
 
-# GitHub Trophies:
+<!-- # GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=JagadeshwaranK&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 ---
-[![](https://visitcount.itsvg.in/api?id=JagadeshwaranK&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=JagadeshwaranK&icon=0&color=0)](https://visitcount.itsvg.in) -->
+
+# GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=JagadeshwaranK&theme=radical)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=JagadeshwaranK)](https://visitcount.itsvg.in)
+
 
 - 🔭 I’m currently working on E-Commerce.
 - 🌱 I’m learning React to transition from a Pega Developer to a Full-Stack Developer.

@@ -5,14 +5,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=JagadeshwaranK&icon=0&color=0)](https://visitcount.itsvg.in) -->
 
-# GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=JagadeshwaranK&theme=radical)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=JagadeshwaranK)](https://visitcount.itsvg.in)
-
-
 - 🔭 I’m currently working on E-Commerce.
 - 🌱 I’m learning React to transition from a Pega Developer to a Full-Stack Developer.
 - 👯 I’m looking to collaborate on Development Based Projects.
